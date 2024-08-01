@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Company"},{"p":"<Unnamed>","l":"Customer"},{"p":"<Unnamed>","l":"Driver"},{"p":"<Unnamed>","l":"MergeSort"},{"p":"<Unnamed>","l":"Product"},{"p":"<Unnamed>","l":"QuickSort"},{"p":"<Unnamed>","l":"ShellSort"},{"p":"<Unnamed>","l":"Trader"},{"p":"<Unnamed>","l":"Users"}];updateSearchResults();

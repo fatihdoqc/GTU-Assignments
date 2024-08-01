@@ -1,0 +1,75 @@
+\documentclass{article}
+\usepackage{graphicx}
+\begin{document}
+Q2)
+\newline
+\textbf{a)}
+\newline
+\paragraph{
+Big-O notation means the worst case scenario which also means the maximum time that alghoritm can take.  So "The running time of algorithm A is at least $O(n^2)$" means "minimum of the maximum time that taken by alghoritm A is $n^2$. Big-O notation used for upper-bound but "at least" is a lower-bound term. That's why it is meaningles to say.
+\newline
+}
+\textbf{b)}
+\newline
+Say f(n) = $n^2+n$ and $g(n) = n$,
+\newline
+max(f (n), g(n)) = f(n) so $ f(n) = \theta (n^2)$
+\newline
+$\theta (f(n) + g(n)) = \theta (n^2+n + n) = \theta (n^2)$. So it is true.
+\newline
+\newline
+Say f(n) = $n$  and $g(n) = n^2+n$,
+\newline
+max(f (n), g(n)) = g(n) so $ g(n) = \theta (n^2)$
+\newline
+$\theta (f(n) + g(n)) = \theta (n^2+n + n) = \theta (n^2)$. So it is true.
+\newline
+\newline
+Say f(n) = $n$ and $g(n) = n$
+\newline
+max(f (n), g(n)) = f(n) or g(n).Let's say f(n). So $ f(n) = \theta (n)$
+\newline
+$\theta (f(n) + g(n)) = \theta (n + n) = \theta (n)$. So it is still true.
+\newline
+\newline
+And there is no other situation left. So its all above proves that max(f (n), g(n)) = $\theta$(f(n) + g(n))
+\newline
+\newline
+\textbf{b)}
+i) $\lim_{n \to \infty} \frac{2^{n+1}}{2^n} = 2$ 
+\newline
+So $\lim_{n \to \infty} \frac{2^{n+1}}{2^n}$ equals to a constant (c).
+\newline
+So $f(n) = \theta (g(n))$, ( g(n) is $2^n$ and f(n) is $2^{n+1}$ ).
+\newline
+So it is correct.
+\newline
+\newline
+ii) $\lim_{n \to \infty} \frac{2^{2n}}{2^n} = 2^n = \infty$ 
+\newline
+So $f(n) = \Omega (g(n))$, ( f(n) is $2^{2n}$ and g(n) is $2^n$ ).
+\newline
+So it is false.
+\newline
+\newpage
+iii)
+\newline
+\includegraphics[width=7cm, height=4cm]{x.png}
+\newline
+It is wrong, it must be $O(n^4)$ because we don't know about f(n). It could be quadratic or constant or something else.
+\newline
+\newline
+Q3)
+\newline
+$3^n > $ is the greatest because it's base is 3 , the greatest number among others. Then,
+\newline
+If n is greater than or equal to 2 , $2^{n+1} > n2^n $ because it's base is lower than 3.Else, $n2^n > 2^{n+1} $ Then,
+\newline
+$ 5^{\log_2n} > 2^n $ because once in two $ 5^{\log_2n}$ acts like $5^n$ which is still greater than $2^n$. Then,
+\newline
+$n^{1.01} > \sqrt{n}$ because  $n^{1.01}$ is very close to being linear.Then,
+\newline
+If $ n > \log n$ , $ n log n > \log n^3$. Then,
+\newline
+log n is the smallest growing term. Because the logorithm grows the smallest.
+\end{document}

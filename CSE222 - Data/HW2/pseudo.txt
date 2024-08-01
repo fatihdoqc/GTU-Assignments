@@ -1,0 +1,22 @@
+ int find_min(ArrayList<Integer> arr){
+    Integer minimum = arr.get(0) /* Theta(1) */
+
+    for i = 0 to i = n , do; /* Theta(n) */             /* This alghoritm's time complexity is Theta(n) */ 
+        if < arr.get(i) then, /* Theta(1) */
+            minimum = arr.get(i) /* Theta(1) */ 
+        end if
+ }
+
+void is_sum_equal(ArrayList<Integer> arr , int value){
+
+    for i = 0 to i = n, do                              /* Worst case = O(n) , Best case = Theta(1) */
+        for j = 0 to j = n, do                          /* Worst case = O(n) , Best case = Theta(1) */
+
+            if ( arr.get(i) + arr.get(j) == value)      /* Theta(1) */
+                print arr.get(i) and arr.get(j)         /* Theta(1) */
+
+                return                                  /* Theta(1) */
+            end if
+ }
+/* Worst case is O(n) * O(n) = O(n^2) and best case is Theta(1) * Theta(1) = Theta(1) */ 
+
