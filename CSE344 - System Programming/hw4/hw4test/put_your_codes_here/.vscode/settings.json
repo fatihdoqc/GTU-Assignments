@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "*.tcc": "c",
+        "time.h": "c",
+        "stat.h": "c"
+    }
+}

@@ -1,0 +1,6 @@
+valgrind --leak-check=full -v ./MWCp 10 10 ../testdir ../toopy
+
+./MWCp $(cat input.txt)
+
+valgrind --leak-check=full --show-leak-kinds=all --track-origins=yes ./MWCp 10 10 ../testdir ../toCopy
+valgrind ./MWCp 10 10 ../testdir ../toCopy

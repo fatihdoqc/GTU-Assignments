@@ -1,0 +1,38 @@
+C:\Users\fatih\Desktop\c# repo\hw3ui\bin\Debug\net6.0\HW3UI.exe
+C:\Users\fatih\Desktop\c# repo\hw3ui\bin\Debug\net6.0\HW3UI.deps.json
+C:\Users\fatih\Desktop\c# repo\hw3ui\bin\Debug\net6.0\HW3UI.runtimeconfig.json
+C:\Users\fatih\Desktop\c# repo\hw3ui\bin\Debug\net6.0\HW3UI.dll
+C:\Users\fatih\Desktop\c# repo\hw3ui\bin\Debug\net6.0\HW3UI.pdb
+C:\Users\fatih\Desktop\c# repo\hw3ui\bin\Debug\net6.0\HW3Library.dll
+C:\Users\fatih\Desktop\c# repo\hw3ui\bin\Debug\net6.0\HW3Library.pdb
+C:\Users\fatih\Desktop\c# repo\hw3ui\obj\Debug\net6.0\HW3UI.csproj.AssemblyReference.cache
+C:\Users\fatih\Desktop\c# repo\hw3ui\obj\Debug\net6.0\HW3UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\Desktop\c# repo\hw3ui\obj\Debug\net6.0\HW3UI.AssemblyInfoInputs.cache
+C:\Users\fatih\Desktop\c# repo\hw3ui\obj\Debug\net6.0\HW3UI.AssemblyInfo.cs
+C:\Users\fatih\Desktop\c# repo\hw3ui\obj\Debug\net6.0\HW3UI.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Desktop\c# repo\hw3ui\obj\Debug\net6.0\HW3UI.csproj.CopyComplete
+C:\Users\fatih\Desktop\c# repo\hw3ui\obj\Debug\net6.0\HW3UI.dll
+C:\Users\fatih\Desktop\c# repo\hw3ui\obj\Debug\net6.0\refint\HW3UI.dll
+C:\Users\fatih\Desktop\c# repo\hw3ui\obj\Debug\net6.0\HW3UI.pdb
+C:\Users\fatih\Desktop\c# repo\hw3ui\obj\Debug\net6.0\HW3UI.genruntimeconfig.cache
+C:\Users\fatih\Desktop\c# repo\hw3ui\obj\Debug\net6.0\ref\HW3UI.dll
+C:\Users\fatih\Desktop\c# repo\HW3UI\bin\Debug\net6.0\MathNet.Numerics.dll
+C:\Users\fatih\Desktop\HW3\HW3UI\bin\Debug\net6.0\HW3UI.exe
+C:\Users\fatih\Desktop\HW3\HW3UI\bin\Debug\net6.0\HW3UI.deps.json
+C:\Users\fatih\Desktop\HW3\HW3UI\bin\Debug\net6.0\HW3UI.runtimeconfig.json
+C:\Users\fatih\Desktop\HW3\HW3UI\bin\Debug\net6.0\HW3UI.dll
+C:\Users\fatih\Desktop\HW3\HW3UI\bin\Debug\net6.0\HW3UI.pdb
+C:\Users\fatih\Desktop\HW3\HW3UI\bin\Debug\net6.0\MathNet.Numerics.dll
+C:\Users\fatih\Desktop\HW3\HW3UI\bin\Debug\net6.0\HW3Library.dll
+C:\Users\fatih\Desktop\HW3\HW3UI\bin\Debug\net6.0\HW3Library.pdb
+C:\Users\fatih\Desktop\HW3\HW3UI\obj\Debug\net6.0\HW3UI.csproj.AssemblyReference.cache
+C:\Users\fatih\Desktop\HW3\HW3UI\obj\Debug\net6.0\HW3UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\Desktop\HW3\HW3UI\obj\Debug\net6.0\HW3UI.AssemblyInfoInputs.cache
+C:\Users\fatih\Desktop\HW3\HW3UI\obj\Debug\net6.0\HW3UI.AssemblyInfo.cs
+C:\Users\fatih\Desktop\HW3\HW3UI\obj\Debug\net6.0\HW3UI.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Desktop\HW3\HW3UI\obj\Debug\net6.0\HW3UI.csproj.CopyComplete
+C:\Users\fatih\Desktop\HW3\HW3UI\obj\Debug\net6.0\HW3UI.dll
+C:\Users\fatih\Desktop\HW3\HW3UI\obj\Debug\net6.0\refint\HW3UI.dll
+C:\Users\fatih\Desktop\HW3\HW3UI\obj\Debug\net6.0\HW3UI.pdb
+C:\Users\fatih\Desktop\HW3\HW3UI\obj\Debug\net6.0\HW3UI.genruntimeconfig.cache
+C:\Users\fatih\Desktop\HW3\HW3UI\obj\Debug\net6.0\ref\HW3UI.dll

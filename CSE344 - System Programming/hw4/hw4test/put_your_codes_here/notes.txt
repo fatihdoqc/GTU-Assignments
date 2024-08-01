@@ -1,0 +1,3 @@
+valgrind --leak-check=full -v ./MWCp 10 10 ../testdir ../tocopy
+
+./MWCp $(cat input.txt)

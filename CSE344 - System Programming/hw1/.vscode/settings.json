@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "fcntl.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "string.h": "c",
+        "types.h": "c",
+        "unistd.h": "c",
+        "chrono": "c",
+        "wait.h": "c",
+        "random": "c",
+        "sstream": "c",
+        "typeinfo": "c"
+    }
+}

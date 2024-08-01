@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dsf6YvpGieDKjexQnXRkHaIHkns/Q/x0GSA+eeQv97/Ex+3+8/E6Nd2c3R+BNjzM74vlQxb7X8rNwIJFZoE+Dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fatih\\Desktop\\HW3\\HW3UI\\HW3UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fatih\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

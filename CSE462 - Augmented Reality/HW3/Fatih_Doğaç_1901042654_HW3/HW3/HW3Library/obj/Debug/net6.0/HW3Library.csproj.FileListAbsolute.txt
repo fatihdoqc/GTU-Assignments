@@ -1,0 +1,24 @@
+C:\Users\fatih\Desktop\c# repo\HW3Library\bin\Debug\net6.0\HW3Library.deps.json
+C:\Users\fatih\Desktop\c# repo\HW3Library\bin\Debug\net6.0\HW3Library.dll
+C:\Users\fatih\Desktop\c# repo\HW3Library\bin\Debug\net6.0\HW3Library.pdb
+C:\Users\fatih\Desktop\c# repo\HW3Library\obj\Debug\net6.0\HW3Library.csproj.AssemblyReference.cache
+C:\Users\fatih\Desktop\c# repo\HW3Library\obj\Debug\net6.0\HW3Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\Desktop\c# repo\HW3Library\obj\Debug\net6.0\HW3Library.AssemblyInfoInputs.cache
+C:\Users\fatih\Desktop\c# repo\HW3Library\obj\Debug\net6.0\HW3Library.AssemblyInfo.cs
+C:\Users\fatih\Desktop\c# repo\HW3Library\obj\Debug\net6.0\HW3Library.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Desktop\c# repo\HW3Library\obj\Debug\net6.0\HW3Library.dll
+C:\Users\fatih\Desktop\c# repo\HW3Library\obj\Debug\net6.0\refint\HW3Library.dll
+C:\Users\fatih\Desktop\c# repo\HW3Library\obj\Debug\net6.0\HW3Library.pdb
+C:\Users\fatih\Desktop\c# repo\HW3Library\obj\Debug\net6.0\ref\HW3Library.dll
+C:\Users\fatih\Desktop\HW3\HW3Library\bin\Debug\net6.0\HW3Library.deps.json
+C:\Users\fatih\Desktop\HW3\HW3Library\bin\Debug\net6.0\HW3Library.dll
+C:\Users\fatih\Desktop\HW3\HW3Library\bin\Debug\net6.0\HW3Library.pdb
+C:\Users\fatih\Desktop\HW3\HW3Library\obj\Debug\net6.0\HW3Library.csproj.AssemblyReference.cache
+C:\Users\fatih\Desktop\HW3\HW3Library\obj\Debug\net6.0\HW3Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\Desktop\HW3\HW3Library\obj\Debug\net6.0\HW3Library.AssemblyInfoInputs.cache
+C:\Users\fatih\Desktop\HW3\HW3Library\obj\Debug\net6.0\HW3Library.AssemblyInfo.cs
+C:\Users\fatih\Desktop\HW3\HW3Library\obj\Debug\net6.0\HW3Library.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Desktop\HW3\HW3Library\obj\Debug\net6.0\HW3Library.dll
+C:\Users\fatih\Desktop\HW3\HW3Library\obj\Debug\net6.0\refint\HW3Library.dll
+C:\Users\fatih\Desktop\HW3\HW3Library\obj\Debug\net6.0\HW3Library.pdb
+C:\Users\fatih\Desktop\HW3\HW3Library\obj\Debug\net6.0\ref\HW3Library.dll

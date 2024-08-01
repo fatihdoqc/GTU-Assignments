@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "string.h": "c",
+        "fcntl.h": "c",
+        "mman.h": "c",
+        "types.h": "c",
+        "signal.h": "c",
+        "unistd.h": "c",
+        "wait.h": "c",
+        "time.h": "c",
+        "stdlib.h": "c",
+        "semaphore.h": "c",
+        "utilities.h": "c",
+        "random": "c",
+        "sstream": "c",
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "utility": "c",
+        "*.tcc": "c",
+        "fstream": "c"
+    }
+}
