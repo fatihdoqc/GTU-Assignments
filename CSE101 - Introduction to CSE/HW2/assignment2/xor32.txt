@@ -1,0 +1,12 @@
+load R0,22
+load R1,18
+load R2,30
+load R3,44
+load RD,255
+load RE,1
+xor R5,R0,RD
+XOR R6,R1,RD
+xor R7,R2,RD
+XOr R8,R3,RD
+addi R8,R8,RE
+halt

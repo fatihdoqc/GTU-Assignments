@@ -1,0 +1,9 @@
+1 1 7 8 a1 b2 b3 d4 f6 g5 h3 j1 
+  a b c d e f g 
+1 x . . . . . . 
+2  . o . . . . . 	X Compeleted: %14.2857
+3   . x . . . . . 	Y Compeleted: %0
+4    . . . o . . . 
+5     . . . . . . o 
+6      . . . . . x . 
+7       . . . . . . . 

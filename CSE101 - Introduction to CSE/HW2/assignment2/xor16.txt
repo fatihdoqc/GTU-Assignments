@@ -1,0 +1,8 @@
+load R0,22
+load R1,18
+load R3,255
+load R4,1
+xor R5,R0,R3
+XOR R6,R1,R3
+addi R6,R6,R4
+halt

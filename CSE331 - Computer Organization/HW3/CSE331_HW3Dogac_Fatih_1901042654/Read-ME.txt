@@ -1,0 +1,4 @@
+All included testbenchs work.
+MULT , SLT , SUB operations don't work.
+
+You can't use the 8x1 multiplexer for the ALU work . But 8x1 multiplexer is functional.

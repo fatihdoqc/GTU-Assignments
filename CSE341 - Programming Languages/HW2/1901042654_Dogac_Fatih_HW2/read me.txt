@@ -1,0 +1,7 @@
+Double values doesn't fully work.
+There is no while operator because pdf didn't mention about KW_WHILE. And it was too late for me to add this feature.
+
+For loops are not fully functional.
+
+There is a makefile , input.txt and output.txt. 
+If you like to use the terminal , just delete "<input.txt> output.txt" from makefile's last row.

@@ -1,0 +1,7 @@
+(set q 5)
+(set a 8)
+(disp q)
+(disp a)
+(disp (+ a q) )
+(disp (- q a) )
+(disp (* a q) )
